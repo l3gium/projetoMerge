@@ -1,4 +1,7 @@
 #include <iostream>
+
+/*Desenvolvido por Beatriz Bastos Borges e Miguel Luizatto Alves.*/
+
 using namespace std;
 
 void merge(int *arr, int left, int mid, int right) 
